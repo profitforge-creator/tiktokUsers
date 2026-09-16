@@ -45,7 +45,7 @@ while (true) {
     };
     
     // Replace `$token` with your actual Telegram bot token
-    $token = ''; // token
+    8905098510:AAFE9g_LOR9fDe8hmYwERrNvbFm-iYjEos0 = ''; // token
 
     // Create EzTG instance with specified options
     $bot = new EzTG([
